@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 public class DatabaseConnectionManager {
 
-    private static final String DB_URL = "jdbc:postgresql://ep-solitary-hat-a12c6l1p-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require";
+    private static final String DB_URL = "jdbc:postgresql://ep-solitary-hat-a12c6l1p-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require";
     private static final String DB_USER = "neondb_owner";
     private static final String DB_PASSWORD = "npg_PzamVFcO7lR2";
 
